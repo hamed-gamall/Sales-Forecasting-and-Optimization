@@ -68,7 +68,7 @@ Applied a wide range of models including:
 
 ### 🌐 6. Deployment
 - Interactive dashboards using:
-  - ✅ Streamlit [👉 Try App](https://your-streamlit-link.app)
+  - ✅ Streamlit [👉 Try App NOW]([https://your-streamlit-link.app](https://sales-forecast-1.streamlit.app)
 
 ---
 
