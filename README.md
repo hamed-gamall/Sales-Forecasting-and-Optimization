@@ -1,8 +1,8 @@
-# 🏬 Walmart Sales Forecasting using Machine Learning
+# 🏬 Walmart Sales Forecasting and Optimization
 
 Final project for the Data Scientist Track – [Digital Egypt Pioneers Initiative (DEPI) by MCIT](https://depi.gov.eg/content/home) in collaboration with[CLS Learning Solutions](https://clslearn.com/) and [IBM](https://www.ibm.com/us-en).
 
-[](![image](https://github.com/hamed-gamall/Sales-Forecasting-and-Optimization/blob/main/Walmart.jpg) 
+(![image](https://github.com/hamed-gamall/Sales-Forecasting-and-Optimization/blob/main/Walmart.jpg) 
 
 ---
 
