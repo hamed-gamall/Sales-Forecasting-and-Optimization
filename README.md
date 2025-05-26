@@ -2,7 +2,7 @@
 
 Final project for the Data Scientist Track – [Digital Egypt Pioneers Initiative (DEPI) by MCIT](https://depi.gov.eg/content/home) in collaboration with[CLS Learning Solutions](https://clslearn.com/) and [IBM](https://www.ibm.com/us-en).
 
-[](https://github.com/hamed-gamall/Sales-Forecasting-and-Optimization/blob/main/Walmart.jpg) 
+![](https://github.com/hamed-gamall/Sales-Forecasting-and-Optimization/blob/main/Walmart.jpg) 
 
 ---
 
@@ -56,7 +56,7 @@ Applied a wide range of models including:
 - ✅ Prophet
 - ✅ ARIMA / SARIMA
 
-📈 **Best Model: XGBoost with R² Score = 0.99**
+📈 **Best Model: XGBoost with R² Score = 0.96**
 
 ### 📏 5. Evaluation Metrics
 - Mean Absolute Error (MAE)
@@ -69,7 +69,6 @@ Applied a wide range of models including:
 ### 🌐 6. Deployment
 - Interactive dashboards using:
   - ✅ Streamlit [👉 Try App](https://your-streamlit-link.app)
-  - ✅ Dash [👉 Try App](https://your-dash-link.com)
 
 ---
 
