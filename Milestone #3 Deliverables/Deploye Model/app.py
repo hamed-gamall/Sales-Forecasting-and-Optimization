@@ -265,7 +265,7 @@ feature_info = {
         "range": "A, B, or C",
         "example": "A = Small, B = Medium, C = Large",
         "icon": "🏬",
-        "default": "A"
+        "default": "B"
     },
     "Size": {
         "description": "Size of the store in square feet",
@@ -279,7 +279,7 @@ feature_info = {
         "range": "1 to 12",
         "example": "1 (Jan), 6 (Jun), 12 (Dec)",
         "icon": "📅",
-        "default": 10
+        "default": 8
     },
     "Year": {
         "description": "Year of the record",
@@ -469,12 +469,17 @@ with col1:
                     
                     # Make prediction
                     prediction = model.predict(pred_df)[0]
+
+                    if prediction < 1:
+                        formatted_prediction = f"${int(prediction * 1000)}K"
+                    else:
+                        formatted_prediction = f"${prediction:,.2f}M"
                     
                     with col2:
                         st.markdown(f"""
                         <div class="prediction-result">
                             <h3 style="margin-top:0;">Predicted Sales</h3>
-                            <div class="prediction-value">${prediction:,.4f}M</div>
+                            <div class="prediction-value">{formatted_prediction}</div>
                             <p style="margin-bottom:0;">for the given parameters</p>
                         </div>
                         """, unsafe_allow_html=True)
