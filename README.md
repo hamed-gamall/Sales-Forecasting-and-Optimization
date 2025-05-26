@@ -4,7 +4,7 @@ Final project for the Data Scientist Track – [Digital Egypt Pioneers Initiativ
 
 [](https://github.com/hamed-gamall/Sales-Forecasting-and-Optimization/blob/main/Walmart.jpg) 
 
---
+---
 
 ## 📌 Project Summary
 
