@@ -2,8 +2,7 @@
 
 Final project for the Data Scientist Track – [Digital Egypt Pioneers Initiative (DEPI) by MCIT](https://depi.gov.eg/content/home) in collaboration with[CLS Learning Solutions](https://clslearn.com/) and [IBM](https://www.ibm.com/us-en).
 
-[Project Banner](![image](https://github.com/user-attachments/assets/9935f9e0-c735-4e3c-abf9-93c5ac42307b)
-) 
+[](![image](https://github.com/hamed-gamall/Sales-Forecasting-and-Optimization/blob/main/Walmart.jpg) 
 
 ---
 
